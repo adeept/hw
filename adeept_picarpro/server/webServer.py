@@ -552,7 +552,7 @@ def Back_and_forth():
     # 往返时间1.5s 可以修改。
     run_time = 1.5
     # 电机速度 0-100
-    motor_speed = 40
+    motor_speed = 50
     while True:
         if 'home' in data:
             test_mark = 1
